@@ -37,3 +37,6 @@ This project is available under the MIT License. You are free to use, modify, an
 Acknowledgments:
 
 This project is designed to assist developers in learning object-oriented programming principles and serves as a practical example of using inheritance in Java.
+
+https://github.com/Luis-Morenoo/JAVABank_Inheritance_Hierarchy/assets/133813015/3f2610cd-8b58-473a-8600-ee6e22a700f1
+

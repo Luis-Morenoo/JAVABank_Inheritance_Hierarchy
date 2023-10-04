@@ -1,12 +1,4 @@
 import javax.swing.plaf.basic.BasicInternalFrameTitlePane;
-//**********************************************************************************************************************
-//*                                                                                                                    *
-//*COSC 4101                                Spring 2023                                     Luis Moreno                *
-//*                                                                                                                    *
-//*                                       Lab Assignment 1                                                             *
-//*                                                                                                                    *
-//*                                    Date created: 02.02.2023                                                        *
-//**********************************************************************************************************************
 
 import java.util.Scanner; // used for user input
 import java.math.BigDecimal;// used for big decimal
